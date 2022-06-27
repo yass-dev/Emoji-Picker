@@ -18,3 +18,5 @@ The important files of this component are:
 
 Good work :)
 
+![Emoji Picker](https://github.com/yass-dev/Emoji-Picker/blob/master/EmojiPicker.jpeg?raw=true)
+
