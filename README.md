@@ -16,7 +16,7 @@ The important files of this component are:
 - `EmojiPicker.vue` contains the Vue component
 - `emojis-data.json` contains emojis categories data
 ### Usage
-To use it, just listen the 'emoji_click' evenit emitted by the EmojiPicker component. The sent event is the selected emoji.
+To use it, just listen the 'emoji_click' event emitted by the EmojiPicker component. The sent event is the selected emoji.
 
 Good work :)
 
